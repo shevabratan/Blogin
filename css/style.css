@@ -1,0 +1,55 @@
+@import url(header.css);
+@import url(main.css);
+@import url(../fonts/style.css);
+
+
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body, h1, h2, h3, h4, h5, p {
+	padding: 0px;
+	margin: 0px
+}
+
+.container {
+	width: 980px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+.clr {
+	clear: both;
+}
+
+footer {
+	background-color: #f8f8f8;
+}
+
+.end_logo {
+	text-align: center;
+	font-family: 'eurofurence  regular';
+	font-size: 40px;
+	color: #292929;
+	margin-top: 50px;
+}
+
+.end_logo span{
+	color: #58c93a;
+}
+
+pre {
+	font-family: 'Open Sans Regular';
+	color: #a6a6a6;
+	font-size: 13px;
+	line-height: 20px;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+
+pre span {
+	font-family: 'Open Sans Bold';
+	color: #939292;
+}

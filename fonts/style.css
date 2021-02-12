@@ -1,0 +1,42 @@
+    @font-face {
+    font-family: 'eurofurence  regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('eurofurence  regular'), url('eurof55.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'eurofurence  bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('eurofurence  bold'), url('eurof75.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Open Sans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans Regular'), url('OpenSans-Regular.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans'), url('OpenSans-Regular.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Open Sans SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans SemiBold'), url('OpenSans-SemiBold.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Open Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans Bold'), url('OpenSans-Bold.woff') format('woff');
+    }
