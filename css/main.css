@@ -103,6 +103,7 @@
 	color: #e1e0e0;
 	margin-left: 240px;
 	margin-top: -37px;
+	margin-bottom: 11px;
 	font-size: 26px;
 }
 
@@ -131,7 +132,7 @@
 }
 
 .right_side .adv {
-	margin-top: 80px;
+	margin-top: 69px;
 	cursor: pointer;
 
 }
